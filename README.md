@@ -1,6 +1,6 @@
 # One
 
-The One project is intended as the foundation for a group of my repositories hosted here at GitHub.  
+The One project is intended as the foundation for a group of my repositories hosted [here](https://github.com/DanceLife/repositories) at GitHub.  
 
 ## See it live
 
