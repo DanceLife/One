@@ -4,7 +4,7 @@ The One project is intended as the foundation for a group of my repositories hos
 
 ## See it live
 
-To see the project live [click here](https://dancelife.github.io/One/).
+To see the project live [click here](https://dancelife.github.io/One/index).
 
 ## Run it locally
 
